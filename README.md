@@ -7,7 +7,7 @@
 </div>
 
 ### :man_technologist: About Me :
-I'm a Data Scientist from London.
+I'm a Data Scientist currently based in Ireland.
 - :telescope: I’m working on projects that incorporate Machine Learning models into applications.
 
 - :seedling: Exploring Technical Content Writing.
