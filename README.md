@@ -50,4 +50,5 @@ I'm a Data Scientist from London.
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
 - [Document Processing](https://pickle-coreopsis-f01.notion.site/It-s-in-there-somewhere-c1a144e7de954f41ad5e2f88100bfee9)
+- [Automate this!](https://pickle-coreopsis-f01.notion.site/Automate-this-25ac8ece29b747d9abe687b2f85674b4)
 <!-- BLOG-POST-LIST:END -->
