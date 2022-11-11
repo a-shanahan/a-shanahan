@@ -50,6 +50,7 @@ I'm a Data Scientist currently based in Ireland.
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
 - [It's in there somewhere](https://pickle-coreopsis-f01.notion.site/It-s-in-there-somewhere-c1a144e7de954f41ad5e2f88100bfee9)
-- [Automate this!](https://pickle-coreopsis-f01.notion.site/Automate-this-25ac8ece29b747d9abe687b2f85674b4)
-- [Have we met before?](https://pickle-coreopsis-f01.notion.site/Have-we-met-before-c61e9cab22894342877fe2413337131c)
+- [Taxi!](https://pickle-coreopsis-f01.notion.site/Taxi-a4a74d73009243178cfe764ca5fe1759)
+  - [Automate this!](https://pickle-coreopsis-f01.notion.site/Automate-this-25ac8ece29b747d9abe687b2f85674b4)
+  - [Have we met before?](https://pickle-coreopsis-f01.notion.site/Have-we-met-before-c61e9cab22894342877fe2413337131c)
 <!-- BLOG-POST-LIST:END -->
