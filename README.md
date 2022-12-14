@@ -49,6 +49,7 @@ I'm a Data Scientist currently based in Ireland.
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Analytics Summit: 2022](https://pickle-coreopsis-f01.notion.site/Analytics-Summit-2022-f154cc481425447db9f0e37c726be44a)
 - [It's in there somewhere](https://pickle-coreopsis-f01.notion.site/It-s-in-there-somewhere-c1a144e7de954f41ad5e2f88100bfee9)
 - [Taxi!](https://pickle-coreopsis-f01.notion.site/Taxi-a4a74d73009243178cfe764ca5fe1759)
   - [Automate this!](https://pickle-coreopsis-f01.notion.site/Automate-this-25ac8ece29b747d9abe687b2f85674b4)
